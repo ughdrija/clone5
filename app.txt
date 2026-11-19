@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 edit 3 from github
+
+
+edit 3 from origin 
+Edit 2
+Edit 2
 
